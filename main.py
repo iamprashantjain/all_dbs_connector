@@ -1,5 +1,8 @@
 #we are going to create a python package which is a folder consist of multiple files
 #we are going to host our code as python package which can be used & installed using pip install
+#mongodb is a nosql dbs which we use to store data in dictionary format
+
+#
 
 
 import pymongo
